@@ -3,7 +3,7 @@ import { AiFillCustomerService } from 'react-icons/ai'
 
 export default function Home() {
   return (
-    <main className="flex flex-col items-center justify-between p-24 borde">
+    <main className="flex flex-col items-center justify-between p-24">
       <h2 className="font-bold mb-2">tailwind-variants</h2>
 
       <Button>Default</Button>
